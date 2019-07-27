@@ -47,3 +47,4 @@ buildtools/
 *.ldf
 Generated Files/
 AppPackages/
+.vs/
